@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "220010501036",
+    "firebase_url": "https://reseller1-bc636.firebaseio.com",
+    "project_id": "reseller1-bc636",
+    "storage_bucket": "reseller1-bc636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220010501036:android:7762e82a67ef7d1a",
+        "android_client_info": {
+          "package_name": "com.ccj.resellerone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220010501036-iimsrgjdemp9vmjqgdrimnsjit9523s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzrNHFxJOg-yXSVxQTS47qCgZLyAEFq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

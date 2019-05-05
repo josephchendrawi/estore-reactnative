@@ -1,0 +1,1 @@
+export const ADMIN_VERIFY_MSG = "Please contact Admin for verify your account";
